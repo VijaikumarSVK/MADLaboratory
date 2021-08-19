@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MAD_LAB</string>
+    <string name="zero">0</string>
+    <string name="ac">Ac</string>
+    <string name="del">Del</string>
+    <string name="moduloSymbol">%</string>
+    <string name="divideSymbol">÷</string>
+    <string name="labelSeven">7</string>
+    <string name="labelEight">8</string>
+    <string name="labelNine">9</string>
+    <string name="multiplySymbol">×</string>
+    <string name="labelFour">4</string>
+    <string name="labelFive">5</string>
+    <string name="labelSix">6</string>
+    <string name="subtractSymbol">–</string>
+    <string name="labelOne">1</string>
+    <string name="labelTwo">2</string>
+    <string name="labelThree">3</string>
+    <string name="additionSymbol">+</string>
+    <string name="labelZero">0</string>
+    <string name="labelDot">.</string>
+    <string name="equalSymbol">=</string>
+
+</resources>
